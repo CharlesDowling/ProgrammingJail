@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1738272350 source:/home/sysadmin/Documents/Programming/C++/CodeBlocks/ProgrammerJail/main.cpp
+	<iostream>
+	<ncurses.h>
+	<string>
+	<cstring>
+	<fstream>
+	<filesystem>
+
