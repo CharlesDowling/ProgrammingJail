@@ -7,3 +7,11 @@
 	<fstream>
 	<filesystem>
 
+1738275380 source:/home/sysadmin/Documents/Programming/C++/CodeBlocks/ProgrammerJail/ProgrammingJail/main.cpp
+	<iostream>
+	<ncurses.h>
+	<string>
+	<cstring>
+	<fstream>
+	<filesystem>
+
